@@ -1,5 +1,5 @@
 package java_Learning_Journey;
-import java.util.*;
+import java.util.Scanner;
 public class SwitchPractice {
 
 	public static void main(String[] args) {
